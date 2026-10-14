@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="in_tune">#2E9E4F</color>
+    <color name="out_of_tune">#E0592A</color>
+    <color name="icon_bg">#1E2A38</color>
+    <color name="icon_fg">#F2B84B</color>
+</resources>

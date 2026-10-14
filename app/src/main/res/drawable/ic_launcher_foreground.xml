@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gauge arc -->
+    <path
+        android:pathData="M30,66 A24,24 0 0 1 78,66"
+        android:strokeColor="@color/icon_fg"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+    <!-- Needle -->
+    <path
+        android:pathData="M54,66 L62,43"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,66m-4.5,0a4.5,4.5 0 1,1 9,0a4.5,4.5 0 1,1 -9,0" />
+    <!-- Strings -->
+    <path
+        android:pathData="M36,74 L72,74 M36,80 L72,80 M36,86 L72,86"
+        android:strokeColor="@color/icon_fg"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>

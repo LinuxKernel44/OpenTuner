@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="in_tune">#4CD27A</color>
+    <color name="out_of_tune">#FF8A5C</color>
+</resources>
